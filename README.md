@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF822D](https://codeforces.com/problemset/problem/822/D) | $l, r$ isn't too large. And the sum of the numbers of factors of integers from $l$ to $r$ is not that large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0813/solution/cf822d.md) |
-| 1900 | [CF722D](https://codeforces.com/problemset/problem/722/D) | How can you make the largest number smaller? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0813/solution/cf722d.md) |
+| 1800 | [CF1076D](https://codeforces.com/problemset/problem/1076/D) | Some edges are more important when considering the shortest path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0820/solution/cf1076d.md) |
+| 1900 | [CF1600E](https://codeforces.com/problemset/problem/1600/E) | The second player's strategy: Find a corresponding move for each move of the first player. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0820/solution/cf1600e.md) |
